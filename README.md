@@ -1,4 +1,4 @@
-# SneakSnake
+# 𓆙 SneakSnake
 
 SneakSnake is an open source multiplayer snake game.
 
