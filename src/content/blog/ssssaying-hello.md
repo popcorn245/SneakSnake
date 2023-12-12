@@ -19,7 +19,7 @@ I think it would be cool to add mechanics to allow the snakes to battle eachothe
 
 ## How to Sssupport?
 
-To support this project, you can [submit a pull-request / issue on our GitHub project](https://github.com/popcorn245/sneaksnakee) or [send me a message on Twitter](https://github.com/popcorn245) (Yes, I know Elon...).
+To support this project, you can [submit a pull-request / issue on our GitHub project](https://github.com/popcorn245/sneaksnake) or [send me a message on Twitter](https://github.com/popcorn245) (Yes, I know Elon...).
 
 <br >
 
