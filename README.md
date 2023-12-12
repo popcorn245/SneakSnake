@@ -1,25 +1,22 @@
-# Astro Starter Kit: Blog
+# SneakSnake
 
-```sh
-npm create astro@latest -- --template blog
-```
+SneakSnake is an open source multiplayer snake game.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/blog)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/blog)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/blog/devcontainer.json)
+## What'sss Thissss?
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+I have always been fascinated with game development, but never made the time to actually make a game.  I really like the simplicty of some of the old cell phone games & gameboy games of the past and love when something like Tetris 99 brings that concept back with a new twist.  This project aims to bring snake back from the dead with some new fun mechanics.
 
-![blog](https://github.com/withastro/astro/assets/2244813/ff10799f-a816-4703-b967-c78997e8323d)
+## What About SSsslither?!?
 
-Features:
+Slither.io was one of the former sites that did this and spawned tons of clones, but the mechanics all rely on just slapping as many people into a lobby and letting them duke it out, where as I want to add more complexity to the game and the ability to spin up your own lobby to play with friends.
 
-- ✅ Minimal styling (make it your own!)
-- ✅ 100/100 Lighthouse performance
-- ✅ SEO-friendly with canonical URLs and OpenGraph data
-- ✅ Sitemap support
-- ✅ RSS Feed support
-- ✅ Markdown & MDX support
+## What Mechanicsss?
+
+I think it would be cool to add mechanics to allow the snakes to battle eachother and rather than just trying to get people to run into eachother, you work to get the longer snake and try to get different power-ups to shorten other people's snakes or lengthen yours.  The matches could be a set of timed rouds or last man standing.
+
+## How to Sssupport?
+
+To support this project, you can [submit a pull-request / issue on our GitHub project](https://github.com/popcorn245/sneaksnake) or [send me a message on Twitter](https://github.com/popcorn245) (Yes, I know Elon...). You can also join our [Discord server](https://discord.gg/KcgqDCvFzC).
 
 ## 🚀 Project Structure
 
@@ -61,8 +58,4 @@ All commands are run from the root of the project, from a terminal:
 
 ## 👀 Want to learn more?
 
-Check out [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
-
-## Credit
-
-This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
+Check out [Astro documentation](https://docs.astro.build) for more info about how to use Astro and consider jumping into our [Discord server](https://discord.gg/KcgqDCvFzC).
